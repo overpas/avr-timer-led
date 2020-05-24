@@ -6,9 +6,9 @@ LED manipulation sample using AVR and FreeRTOS
 
 <img src=images/scheme.png width="700" />
 
-When S1 is pressed </br>
+<h5>When S1 is pressed </h5>
 <img src=images/s1_pressed.gif width="500" /> </br>
-When S2 is pressed </br>
+<h5>When S2 is pressed </h5>
 <img src=images/s2_pressed.gif width="500" />
 
 ## Building
