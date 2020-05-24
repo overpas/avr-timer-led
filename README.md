@@ -3,10 +3,13 @@
 LED manipulation sample using AVR and FreeRTOS
 
 ## Demo
-<p float="left">
-  <img src=images/s1_pressed.gif width="400" />
-  <img src=images/s2_pressed.gif width="400" />
-</p>
+
+<img src=images/scheme.png width="700" />
+
+When S1 is pressed </br>
+<img src=images/s1_pressed.gif width="500" /> </br>
+When S2 is pressed </br>
+<img src=images/s2_pressed.gif width="500" />
 
 ## Building
 
